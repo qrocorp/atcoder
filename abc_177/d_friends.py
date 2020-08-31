@@ -10,6 +10,3 @@ for i in range(m):
 
 start_group = list(range(1, n+1))
 friend_groups = []
-
-for i in range(m):
-    if xy[i][0]:
